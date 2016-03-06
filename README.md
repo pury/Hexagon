@@ -4,7 +4,7 @@
 
 ##Preview
 
-      http://app.html5party.com/hexagon
+      [http://app.html5party.com/hexagon](http://app.html5party.com/hexagon)
 
 ##Client
 
